@@ -17,6 +17,7 @@ CCTV14-少儿,http://36.136.13.251:18181/tsfile/live/faacts/0014_1.m3u8?key=txip
 卫视频道,#genre#
 广西新闻,http://36.136.13.251:18181/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
+广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://36.136.13.251:18181/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://115.85.232.19/PLTV/88888910/224/3221225552/10000100000000060000000000107332_0.smil
@@ -198,6 +199,8 @@ CCTV14-少儿,http://36.136.13.251:18181/tsfile/live/faacts/0014_1.m3u8?key=txip
 嘉佳卡通,http://36.136.13.251:18181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://117.141.162.238:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://1b6467f415.iok.la:9931/tsfile/live/1053_1.m3u8
+嘉佳卡通,https://migu.188766.xyz/?migutoken=793af9605ff0de41c4e8a6e6c17c5a3a&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
+嘉佳卡通,https://tv.iill.top/migu/jddh
 卡酷少儿,http://36.136.13.251:18181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 新动漫,http://36.136.13.251:18181/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
@@ -278,6 +281,7 @@ CCTV14-少儿,http://36.136.13.251:18181/tsfile/live/faacts/0014_1.m3u8?key=txip
 兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 兵团卫视,https://my5353.com/7Z1HP
+兵团卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 吉林卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=jilin&videoTVChannel=jilin&P2PChannelID=pd://cctv_p2p_hdjilin&tai=jilin&VideoName=jilin&channelID=jilin
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://113.25.252.226:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -341,11 +345,27 @@ CCTV14-少儿,http://36.136.13.251:18181/tsfile/live/faacts/0014_1.m3u8?key=txip
 长治公共,http://live.njgdmm.com/changzhi/cztv2.m3u8
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 长治教育,http://live.njgdmm.com/changzhi/czetv.m3u8
+襄垣电视台,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8
+屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
+壶关电视台,https://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+涉县综合频道,http://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
+晋城公共,https://stream1.freetv.fun/jin-cheng-gong-gong-1.m3u8
 
 两广频道,#genre#
+广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
+广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
+广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
+广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
+广西卫视,http://goo.bkpcp.top/mg/gxws
+广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
+广西卫视,https://migu.188766.xyz/?migutoken=6efef796f186c407acf44b4ee09f6b6b&id=gxws&type=sz
+广西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887394.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+广西卫视,http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8
 珠江台1-3（B）,http://36.136.13.251:18181/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://36.136.13.251:18181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
@@ -353,6 +373,8 @@ CCTV14-少儿,http://36.136.13.251:18181/tsfile/live/faacts/0014_1.m3u8?key=txip
 广东影视,http://117.141.162.238:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://61.145.188.90:50005/rtp/239.77.0.217:5146
 广东影视,http://1b6467f415.iok.la:9931/tsfile/live/1018_1.m3u8
+广东影视,https://hls-gateway.vpstv.net/streams/661873.m3u8
+广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-12.m3u8
 南方卫视,http://36.136.13.251:18181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://36.136.13.251:18181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -363,6 +385,7 @@ CCTV14-少儿,http://36.136.13.251:18181/tsfile/live/faacts/0014_1.m3u8?key=txip
 广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 测试频道1-1(B),http://36.136.13.251:18181/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://36.136.13.251:18181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
@@ -378,9 +401,12 @@ CCTV14-少儿,http://36.136.13.251:18181/tsfile/live/faacts/0014_1.m3u8?key=txip
 广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8?key=txiptv
 广东新闻,http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
+广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
+广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-9.ctv
 广东民生,http://36.136.13.251:18181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-20.m3u8
 广东科教,http://36.136.13.251:18181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 广东科教,http://117.141.162.238:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://36.136.13.251:18181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -388,8 +414,10 @@ CCTV14-少儿,http://36.136.13.251:18181/tsfile/live/faacts/0014_1.m3u8?key=txip
 广东少儿,http://61.145.188.90:50005/rtp/239.77.0.250:5146
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 广东少儿,http://1b6467f415.iok.la:9931/tsfile/live/1019_1.m3u8
+广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-15.m3u8
 岭南戏曲,http://36.136.13.251:18181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲,http://117.141.162.238:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲,http://120.238.94.10:9901/tsfile/live/1095_1.m3u8
+岭南戏曲,https://hls-gateway.vpstv.net/streams/476950.m3u8
 测试频道 1-2（B）,http://36.136.13.251:18181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 北流台,http://36.136.13.251:18181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
