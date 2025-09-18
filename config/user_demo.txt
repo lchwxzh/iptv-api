@@ -65,7 +65,7 @@ CCTV5+,http://36.136.13.251:18181/tsfile/live/faacts/0016_1.m3u8?key=txiptv&play
 新疆卫视,http://36.136.13.251:18181/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育 1-8（B）,http://36.136.13.251:18181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://36.136.13.251:18181/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-
+山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/1tl1e0m.m3u8
 
 
 本地频道,#genre#
