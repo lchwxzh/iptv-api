@@ -26,6 +26,7 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8$!
 湖南卫视,http://tpc.x3322.net:9901/tsfile/live/0117_2.m3u8$!
 辽宁卫视,http://tpc.x3322.net:9901/tsfile/live/0121_1.m3u8$!
 江苏卫视,http://tpc.x3322.net:9901/tsfile/live/0127_1.m3u8$!
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8$!
 黑龙江卫视,http://tpc.x3322.net:9901/tsfile/live/0143_1.m3u8$!
 北京卫视,http://tpc.x3322.net:9901/tsfile/live/0122_1.m3u8$!
 东方卫视,http://tpc.x3322.net:9901/tsfile/live/0107_1.m3u8$!
@@ -81,7 +82,7 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8$!
 上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
-平顺电视台,http://stream.icelook.cn/2daa869d1623782d/6679643898219856900_1602492802.m3u8?auth_key=1893456000-0-0-8c6e3e73d78411a6bd6e2faef2b275d0
+平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
 壶关电视台,https://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8 
 涉县综合频道,http://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
 晋城综合,http://live.jinnews.com.cn/xwzh/sd/live.m3u8#http://live.jinnews.com.cn/xwzh/sd/live.m3u8?zshanxd
