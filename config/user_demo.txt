@@ -145,13 +145,13 @@ CCTV15-音乐,http://171.117.13.205:9999/tsfile/live/0015_1.m3u8?key=txiptv&play
 
 
 山西频道,#genre#
-山西卫视,http://171.117.13.205:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$!
-山西影视,webview://https://apphhplushttps.sxrtv.com//television/live_wap_654.html$!
-山西经济与科技,webview://https://apphhplushttps.sxrtv.com//television/live_wap_653.html$!
-山西文体生活,webview://https://apphhplushttps.sxrtv.com//television/live_wap_656.html$!
-山西社会与法治,webview://https://apphhplushttps.sxrtv.com//television/live_wap_655.html$!
-黄河频道,webview://https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4$!
-潞州电视台,webview://https://web.guangdianyun.tv/tv/3407?uin=1723$!
+山西卫视,http://171.117.13.205:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西影视,//https://apphhplushttps.sxrtv.com//television/live_wap_654.html
+山西经济与科技,//https://apphhplushttps.sxrtv.com//television/live_wap_653.html
+山西文体生活,//https://apphhplushttps.sxrtv.com//television/live_wap_656.html
+山西社会与法治,//https://apphhplushttps.sxrtv.com//television/live_wap_655.html
+黄河频道,//https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
+潞州电视台,//https://web.guangdianyun.tv/tv/3407?uin=1723
 
 本地频道,#genre# 
 黎城电视台,http://111.53.96.67:8081/live/1/index.m3u8
