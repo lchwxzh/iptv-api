@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-23 18:19:56,http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
+2025-09-24 06:17:33,http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
 
 央视频道,#genre#
 CCTV1综合,http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
@@ -32,12 +32,9 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 北京卫视,http://tpc.x3322.net:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
 东方卫视,http://tpc.x3322.net:9901/tsfile/live/0107_1.m3u8
-东方卫视,http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8
 浙江卫视,http://tpc.x3322.net:9901/tsfile/live/0124_1.m3u8
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
-浙江卫视,http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 安徽卫视,http://tpc.x3322.net:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
@@ -48,7 +45,6 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
 山东卫视,http://tpc.x3322.net:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://58.58.111.222:808/hls/57/index.m3u8?key=txiptv
 河南卫视,http://tpc.x3322.net:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
@@ -78,11 +74,8 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8
-西藏卫视,http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
 陕西卫视,http://tpc.x3322.net:9901/tsfile/live/0136_1.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-陕西卫视,http://219.146.95.58:59902/tsfile/live/0136_1.m3u8?txiptv
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 兵团卫视,http://tpc.x3322.net:9901/tsfile/live/0115_1.m3u8
@@ -90,12 +83,10 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 甘肃卫视,http://tpc.x3322.net:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
-甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
 新疆卫视,http://tpc.x3322.net:9901/tsfile/live/0110_1.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 宁夏卫视,http://tpc.x3322.net:9901/tsfile/live/0112_1.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
-宁夏卫视,http://123.130.84.106:8154/tsfile/live/0112_1.m3u8
 内蒙古卫视,http://tpc.x3322.net:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -162,7 +153,6 @@ CCTV17,http://36.136.13.251:18181/tsfile/live/faacts/0019_1.m3u8?key=txiptv&play
 金鹰卡通,http://36.136.13.251:18181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://171.117.13.205:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://36.136.13.251:18181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://sh.lnott.top:880/dx67.m3u8
 卡酷少儿,http://36.136.13.251:18181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 新动漫,http://36.136.13.251:18181/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://171.117.13.205:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -183,11 +173,9 @@ CCTV17,http://36.136.13.251:18181/tsfile/live/faacts/0019_1.m3u8?key=txiptv&play
 黎城电视台,http://111.53.96.67:8081/live/1/index.m3u8
 长治综合,rtmp://live.njgdmm.com/changzhi/cztv1
 长治综合,http://live.njgdmm.com/changzhi/cztv1.m3u8
-长治公共,rtmp://live.njgdmm.com/changzhi/cztv2
 长治公共,http://live.njgdmm.com/changzhi/cztv2.m3u8
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 长治教育,http://live.njgdmm.com/changzhi/czetv.m3u8
-上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
