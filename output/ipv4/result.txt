@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-26 06:15:59,http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
+2025-09-26 18:19:17,http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
 
 央视频道,#genre#
 CCTV1综合,http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
@@ -25,6 +25,7 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 山西卫视,http://tpc.x3322.net:9901/tsfile/live/0118_1.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 湖南卫视,http://tpc.x3322.net:9901/tsfile/live/0117_2.m3u8
+湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 辽宁卫视,http://tpc.x3322.net:9901/tsfile/live/0121_1.m3u8
 江苏卫视,http://tpc.x3322.net:9901/tsfile/live/0127_1.m3u8
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
@@ -59,11 +60,11 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广西卫视,http://tpc.x3322.net:9901/tsfile/live/0119_1.m3u8
 深圳卫视,http://tpc.x3322.net:9901/tsfile/live/0126_1.m3u8
-深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 海南卫视,http://tpc.x3322.net:9901/tsfile/live/0114_1.m3u8
-海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://tpc.x3322.net:9901/tsfile/live/0142_2.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
@@ -178,6 +179,7 @@ CCTV17,http://36.136.13.251:18181/tsfile/live/faacts/0019_1.m3u8?key=txiptv&play
 长治公共,http://live.njgdmm.com/changzhi/cztv2.m3u8
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 长治教育,http://live.njgdmm.com/changzhi/czetv.m3u8
+上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
