@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-27 07:26:11,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-09-27 18:30:08,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1 HD,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -656,6 +656,7 @@ CCTV17,http://36.136.13.251:18181/tsfile/live/faacts/0019_1.m3u8?key=txiptv&play
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20250919080138072253b9895645c19831d17ddb5f5382&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20250919080138&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.88&SecurityKey=20250919080138&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=45229087036705659a0e9924fd3588fa&ddCalcu=a4f5e82182459030d8f740239697e005a695
 嘉佳卡通,https://tv.iill.top/migu/jddh
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-5.ctv
+嘉佳卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/index.m3u8
 卡酷少儿,http://36.136.13.251:18181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 新动漫,http://36.136.13.251:18181/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://171.117.13.205:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -851,6 +852,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20250926080059ca1c29d85272469ab32f09e8bfd731d4&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20250926080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.83&SecurityKey=20250926080059&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=304a0558f161235cc96e42fc252e0334&ddCalcu=4330e3420a4e00255528cff12641e26395cc
 嘉佳卡通,https://tv.iill.top/migu/jddh
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
+嘉佳卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/index.m3u8
 国学,http://114.244.240.166:4022/rtp/239.3.1.77:4120
 国学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
 国学,https://cc06.tv12.xyz/45.m3u8
@@ -861,6 +863,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 山东教育,http://z.b.bkpcp.top/m.php?id=sdjy
 山东教育,http://goo.bkpcp.top/mg/sdjy
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
+山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
 戏曲,http://114.244.240.166:4022/rtp/239.3.1.78:4120
 收视指南,http://114.244.240.166:4022/rtp/239.3.1.193:8012
 早教,http://114.244.240.166:4022/rtp/239.3.1.79:4120
@@ -907,6 +910,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 广州台,http://36.136.13.251:18181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://36.136.13.251:18181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
+广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
 广东民生,http://36.136.13.251:18181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-20.m3u8
 广东科教,http://36.136.13.251:18181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
