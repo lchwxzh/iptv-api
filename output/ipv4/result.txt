@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-06 06:18:30,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-10-06 18:22:00,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -12,10 +12,8 @@ CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV-5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8
 CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
 CCTV-6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
-CCTV-6,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
 CCTV-7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 CCTV-8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
-CCTV-8,http://120.76.248.139/live/bfgd/4200000066.m3u8
 CCTV-9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
 CCTV-10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
 CCTV-11,http://171.15.18.199:8180/TV00000000000000000011@HHZT
@@ -26,6 +24,7 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
 CCTV-14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+CCTV-14,http://111.227.196.164:9901/tsfile/live/0014_1.m3u8
 CCTV-15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 CCTV-16,http://114.244.240.166:4022/rtp/239.3.1.184:8001
 CCTV-16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
@@ -41,9 +40,12 @@ CETV1,http://114.244.240.166:4022/rtp/239.3.1.57:8152
 贵州卫视,https://piccpndali.v.myalicdn.com/audio/guizhou_2.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+南方卫视,http://114.244.240.166:4022/rtp/239.3.1.161:8001
+山西卫视,http://sh.lnott.top:880/dx39.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
+西藏卫视,http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
 青海卫视,https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 
@@ -165,8 +167,6 @@ CCTV17,http://36.136.13.251:18181/tsfile/live/faacts/0019_1.m3u8?key=txiptv&play
 浙江卫视,http://171.117.13.205:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://36.136.13.251:18181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://171.117.13.205:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://101.66.195.209:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通,http://101.66.195.41:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 嘉佳卡通,http://36.136.13.251:18181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://36.136.13.251:18181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 新动漫,http://36.136.13.251:18181/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -189,7 +189,7 @@ CCTV17,http://36.136.13.251:18181/tsfile/live/faacts/0019_1.m3u8?key=txiptv&play
 长治综合,rtmp://live.njgdmm.com/changzhi/cztv1
 长治公共,rtmp://live.njgdmm.com/changzhi/cztv2
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
-屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
+上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
@@ -199,12 +199,14 @@ BRTV影视,http://114.244.240.166:4022/rtp/239.3.1.158:8000
 BRTV文艺,http://114.244.240.166:4022/rtp/239.3.1.242:8000
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 淘娱乐,http://115.171.216.75:4000/rtp/225.1.8.61:8002
-睛彩羽毛球,http://114.244.240.166:4022/rtp/239.3.1.127:8001
 茶频道,http://drive.mxmy.net:8888/udp/239.3.1.165:8001
 体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
+淘精彩,http://114.244.240.166:4022/rtp/239.3.1.178:8001
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
-军事,http://114.244.240.166:4022/rtp/239.3.1.76:4120
 国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=58d36d10ab0fbefc1f2c6544b2e71c40&wsTime=1758859213
+美妆,http://114.244.240.166:4022/rtp/239.3.1.72:4120
+鉴赏,http://114.244.240.166:4022/rtp/239.3.1.82:4120
+魅力时尚,http://114.244.240.166:4022/rtp/239.3.1.196:9012
 
 吉林频道,#genre#
 吉林都市,http://tpc.x3322.net:9901/tsfile/live/1002_1.m3u8
