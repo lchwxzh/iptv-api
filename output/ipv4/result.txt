@@ -1,16 +1,14 @@
 🕘️更新时间,#genre#
-2025-10-07 18:29:02,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-10-08 06:16:20,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
-CCTV-1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://114.244.240.166:4022/rtp/239.3.1.60:8084
 CCTV-3,http://114.244.240.166:4022/rtp/239.3.1.172:8001
 CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
 CCTV-4,http://114.244.240.166:4022/rtp/239.3.1.105:8092
 CCTV-4,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
-CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://114.244.240.166:4022/rtp/239.3.1.173:8001
 CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV-5+,http://114.244.240.166:4022/rtp/239.3.1.130:8004
@@ -22,15 +20,12 @@ CCTV-7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 CCTV-8,http://114.244.240.166:4022/rtp/239.3.1.175:8001
 CCTV-8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
 CCTV-9,http://114.244.240.166:4022/rtp/239.3.1.62:8112
-CCTV-9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
-CCTV-9,http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://114.244.240.166:4022/rtp/239.3.1.63:8116
 CCTV-10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
 CCTV-11,http://114.244.240.166:4022/rtp/239.3.1.152:8120
-CCTV-11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 CCTV-11,http://171.15.18.199:8180/TV00000000000000000011@HHZT
+CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 CCTV-12,http://114.244.240.166:4022/rtp/239.3.1.64:8124
 CCTV-12,http://171.15.18.199:8180/TV00000000000000000012@HHZT
 CCTV-12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
@@ -58,7 +53,6 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 东方卫视,http://114.244.240.166:4022/rtp/239.3.1.136:8032
 浙江卫视,http://114.244.240.166:4022/rtp/239.3.1.137:8036
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-浙江卫视,http://61.184.46.85:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://114.244.240.166:4022/rtp/239.3.1.135:8028
 深圳卫视,http://114.244.240.166:4022/rtp/239.3.1.134:8020
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
@@ -70,17 +64,13 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 黑龙江卫视,http://114.244.240.166:4022/rtp/239.3.1.133:8016
 河北卫视,http://114.244.240.166:4022/rtp/239.3.1.148:8072
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
-河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8
 辽宁卫视,http://114.244.240.166:4022/rtp/239.3.1.210:8056
-辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
 湖北卫视,http://114.244.240.166:4022/rtp/239.3.1.138:8044
 吉林卫视,http://114.244.240.166:4022/rtp/239.3.1.240:8172
-吉林卫视,http://58.245.255.38:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://114.244.240.166:4022/rtp/239.3.1.149:8076
 贵州卫视,https://piccpndali.v.myalicdn.com/audio/guizhou_2.m3u8
 东南卫视,http://114.244.240.166:4022/rtp/239.3.1.156:8148
 江西卫视,http://114.244.240.166:4022/rtp/239.3.1.123:8164
-江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8
 海南卫视,http://114.244.240.166:4022/rtp/239.3.1.45:8304
 云南卫视,http://114.244.240.166:4022/rtp/239.3.1.26:8108
 云南卫视,http://1b6467f415.iok.la:9931/tsfile/live/1081_1.m3u8
@@ -94,14 +84,11 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 山西卫视,http://114.244.240.166:4022/rtp/239.3.1.42:8172
 广西卫视,http://114.244.240.166:4022/rtp/239.3.1.39:8300
 新疆卫视,http://114.244.240.166:4022/rtp/239.3.1.48:8160
-新疆卫视,http://120.76.248.139/live/bfgd/4200000150.m3u8
 河南卫视,http://114.244.240.166:4022/rtp/239.3.1.27:8128
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-河南卫视,http://58.245.255.38:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 甘肃卫视,http://114.244.240.166:4022/rtp/239.3.1.49:8188
-甘肃卫视,http://110.80.17.38:9999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://114.244.240.166:4022/rtp/239.3.1.47:8164
 三沙卫视,http://114.244.240.166:4022/rtp/239.3.1.155:4120
 陕西卫视,http://114.244.240.166:4022/rtp/239.3.1.41:8140
@@ -228,7 +215,6 @@ CCTV17,http://36.136.13.251:18181/tsfile/live/faacts/0019_1.m3u8?key=txiptv&play
 浙江卫视,http://171.117.13.205:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://36.136.13.251:18181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://171.117.13.205:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.1.59:5002
 嘉佳卡通,http://36.136.13.251:18181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://36.136.13.251:18181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 新动漫,http://36.136.13.251:18181/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -251,7 +237,6 @@ CCTV17,http://36.136.13.251:18181/tsfile/live/faacts/0019_1.m3u8?key=txiptv&play
 长治综合,rtmp://live.njgdmm.com/changzhi/cztv1
 长治公共,rtmp://live.njgdmm.com/changzhi/cztv2
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
-上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
@@ -359,7 +344,6 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 珠江台1-3（B）,http://36.136.13.251:18181/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://36.136.13.251:18181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://36.136.13.251:18181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://pa.kuangdeng.top:8081/hls/75/index.m3u8
 广东影视,http://61.145.188.90:50005/rtp/239.77.0.217:5146
 南方卫视,http://36.136.13.251:18181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://36.136.13.251:18181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
