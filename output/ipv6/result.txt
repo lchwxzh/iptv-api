@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-10 06:18:05,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-10-10 18:21:14,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -11,6 +11,7 @@ CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u
 CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20251004080101123e65b286d74764a0032451f4b03dea&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251004080101&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.88&SecurityKey=20251004080101&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c7b1d87199fd287aa2b4dff473ddbd60&ddCalcu=0c67edb0b18dd0d8377149f9ffdd42b827aa
 CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1,http://3501776.xyz:35455/gaoma/cctv1.m3u8
+CCTV-1,https://jzb.wwkejishe.top/?id=578
 CCTV-2,http://114.244.240.166:4022/rtp/239.3.1.60:8084
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2
@@ -1040,6 +1041,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 光影,http://114.244.240.166:4022/rtp/239.3.1.84:4120
 喜剧影院,http://114.244.240.166:4022/rtp/239.3.1.91:4120
 家庭影院,http://114.244.240.166:4022/rtp/239.3.1.93:4120
+家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 精选,http://114.244.240.166:4022/rtp/239.3.1.74:4120
 经典电影,http://114.244.240.166:4022/rtp/239.3.1.195:9024
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
@@ -1052,6 +1054,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 金鹰纪实,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
 金鹰纪实,https://hls-gateway.vpstv.net/streams/708834.m3u8
+金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-23.m3u8
 地理,http://114.244.240.166:4022/rtp/239.3.1.71:4120
 淘剧场,http://114.244.240.166:4022/rtp/239.3.1.95:8001
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
@@ -1106,6 +1109,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 嘉佳卡通,http://114.244.240.166:4022/rtp/239.3.1.147:9268
 嘉佳卡通,https://migu.188766.xyz/?migutoken=e646ac8a265e5a5f5e2d0f4f06a21ac7&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20250926080059ca1c29d85272469ab32f09e8bfd731d4&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20250926080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.83&SecurityKey=20250926080059&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=304a0558f161235cc96e42fc252e0334&ddCalcu=4330e3420a4e00255528cff12641e26395cc
+嘉佳卡通,https://tv.iill.top/migu-1/jddh
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
 嘉佳卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/index.m3u8
 国学,http://114.244.240.166:4022/rtp/239.3.1.77:4120

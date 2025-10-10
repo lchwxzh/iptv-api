@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lchwxzh/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-10 06:18:05
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-10 18:21:14
 http://114.244.240.166:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道A",CCTV-1
 http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -19,6 +19,8 @@ http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道A",CCTV-1
 http://3501776.xyz:35455/gaoma/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道A",CCTV-1
+https://jzb.wwkejishe.top/?id=578
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道A",CCTV-2
 http://114.244.240.166:4022/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道A",CCTV-2
@@ -2053,6 +2055,8 @@ http://114.244.240.166:4022/rtp/239.3.1.84:4120
 http://114.244.240.166:4022/rtp/239.3.1.91:4120
 #EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭影院.png" group-title="北京频道",家庭影院
 http://114.244.240.166:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭影院.png" group-title="北京频道",家庭影院
+http://eastscreen.tv/ooooo.php?id=chcjt
 #EXTINF:-1 tvg-name="精选" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精选.png" group-title="北京频道",精选
 http://114.244.240.166:4022/rtp/239.3.1.74:4120
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="北京频道",经典电影
@@ -2077,6 +2081,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="北京频道",金鹰纪实
 https://hls-gateway.vpstv.net/streams/708834.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="北京频道",金鹰纪实
+https://stream1.freetv.fun/jin-ying-ji-shi-23.m3u8
 #EXTINF:-1 tvg-name="地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/地理.png" group-title="北京频道",地理
 http://114.244.240.166:4022/rtp/239.3.1.71:4120
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="北京频道",淘剧场
@@ -2185,6 +2191,8 @@ http://114.244.240.166:4022/rtp/239.3.1.147:9268
 https://migu.188766.xyz/?migutoken=e646ac8a265e5a5f5e2d0f4f06a21ac7&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="北京频道",嘉佳卡通
 http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20250926080059ca1c29d85272469ab32f09e8bfd731d4&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20250926080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.83&SecurityKey=20250926080059&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=304a0558f161235cc96e42fc252e0334&ddCalcu=4330e3420a4e00255528cff12641e26395cc
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="北京频道",嘉佳卡通
+https://tv.iill.top/migu-1/jddh
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="北京频道",嘉佳卡通
 https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="北京频道",嘉佳卡通
