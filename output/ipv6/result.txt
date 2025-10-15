@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-15 18:19:55,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-10-16 06:16:14,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -1007,6 +1007,8 @@ CCTV5+体育赛事,http://nas.suntao.online:35455/itv/6000000001000015875.m3u8?c
 吉林卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
 
 本地频道,#genre#
+襄垣电视台,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8
+屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 壶关电视台,https://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
 涉县综合频道,http://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
 
