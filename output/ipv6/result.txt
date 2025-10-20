@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-20 06:17:30,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-10-20 18:19:42,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -1010,7 +1010,7 @@ CCTV5+体育赛事,http://nas.suntao.online:35455/itv/6000000001000015875.m3u8?c
 吉林卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
 
 本地频道,#genre#
-襄垣电视台,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8
+屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 壶关电视台,https://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
 涉县综合频道,http://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
 
@@ -1107,6 +1107,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 嘉佳卡通,http://114.244.240.166:4022/rtp/239.3.1.147:9268
 嘉佳卡通,https://migu.188766.xyz/?migutoken=e646ac8a265e5a5f5e2d0f4f06a21ac7&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20250926080059ca1c29d85272469ab32f09e8bfd731d4&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20250926080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.83&SecurityKey=20250926080059&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=304a0558f161235cc96e42fc252e0334&ddCalcu=4330e3420a4e00255528cff12641e26395cc
+嘉佳卡通,https://tv.iill.top/migu/jddh
 嘉佳卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/index.m3u8
 国学,http://114.244.240.166:4022/rtp/239.3.1.77:4120
 国学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lchwxzh/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-20 06:17:30
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-20 18:19:42
 http://114.244.240.166:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道A",CCTV-1
 http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -77,6 +77,8 @@ http://114.244.240.166:4022/rtp/239.3.1.122:8160
 http://114.244.240.166:4022/rtp/239.3.1.209:8052
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道A",黑龙江卫视
 http://114.244.240.166:4022/rtp/239.3.1.133:8016
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道A",黑龙江卫视
+http://120.76.248.139/live/bfgd/4200000095.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道A",河北卫视
 http://114.244.240.166:4022/rtp/239.3.1.148:8072
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道A",河北卫视
@@ -247,8 +249,8 @@ http://live.njgdmm.com/changzhi/cztv2.m3u8
 rtmp://live.njgdmm.com/changzhi/czetv
 #EXTINF:-1 tvg-name="长治教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长治教育.png" group-title="本地频道",长治教育
 http://live.njgdmm.com/changzhi/czetv.m3u8
-#EXTINF:-1 tvg-name="屯留电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/屯留电视台.png" group-title="本地频道",屯留电视台
-https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
+#EXTINF:-1 tvg-name="上党区电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上党区电视台.png" group-title="本地频道",上党区电视台
+http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 #EXTINF:-1 tvg-name="长子电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长子电视台.png" group-title="本地频道",长子电视台
 rtmp://zzlive.zzc-media.com:1935/live/xwzh
 #EXTINF:-1 tvg-name="武乡电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武乡电视台.png" group-title="本地频道",武乡电视台
