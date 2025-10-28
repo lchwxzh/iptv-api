@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-28 06:16:57,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-10-28 18:21:18,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -384,6 +384,7 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
 云南卫视,https://cc06.tv12.xyz/114.m3u8
+云南卫视,https://shyd.695847.xyz/cms001/ch00000090990000001223/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 兵团卫视,http://114.244.240.166:4022/rtp/239.3.1.144:4120
 兵团卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=2025092608005655da1b85ae294c85b0c5667d330ba7da&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20250926080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.83&SecurityKey=20250926080056&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8cdd4d66f3d6d23f8c1a5b16d40e0ad8&ddCalcu=88dcead20d6e400d46d66f13bd56ad12c38f
 兵团卫视,https://cc06.tv12.xyz/30.m3u8
@@ -931,6 +932,7 @@ CCTV5+体育赛事,http://nas.suntao.online:35455/itv/6000000001000015875.m3u8?c
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
 云南卫视,https://cc06.tv12.xyz/114.m3u8
+云南卫视,https://shyd.695847.xyz/cms001/ch00000090990000001223/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
@@ -1016,6 +1018,7 @@ CCTV5+体育赛事,http://nas.suntao.online:35455/itv/6000000001000015875.m3u8?c
 吉林卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
 
 本地频道,#genre#
+襄垣电视台,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8
 屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 壶关电视台,https://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
 涉县综合频道,http://jwcdnqx.hebyun.com.cn/live/SXTV1/1500k/tzwj_video.m3u8
@@ -1113,6 +1116,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 嘉佳卡通,http://114.244.240.166:4022/rtp/239.3.1.147:9268
 嘉佳卡通,https://migu.188766.xyz/?migutoken=e646ac8a265e5a5f5e2d0f4f06a21ac7&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20250926080059ca1c29d85272469ab32f09e8bfd731d4&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20250926080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.83&SecurityKey=20250926080059&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=304a0558f161235cc96e42fc252e0334&ddCalcu=4330e3420a4e00255528cff12641e26395cc
+嘉佳卡通,https://tv.iill.top/migu-1/jddh
 嘉佳卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/index.m3u8
 国学,http://114.244.240.166:4022/rtp/239.3.1.77:4120
 国学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
