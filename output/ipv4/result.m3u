@@ -1,18 +1,24 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lchwxzh/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-14 06:18:05
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-14 18:24:18
 http://114.244.240.166:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道A",CCTV-1
 http://114.244.240.166:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道A",CCTV-1
 http://171.116.216.113:10010/rtp/226.0.1.157:3086
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道A",CCTV-1
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道A",CCTV-2
 http://114.244.240.166:4022/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道A",CCTV-2
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道A",CCTV-3
 http://114.244.240.166:4022/rtp/239.3.1.172:8001
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道A",CCTV-4
 http://114.244.240.166:4022/rtp/239.3.1.105:8092
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道A",CCTV-4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道A",CCTV-4
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道A",CCTV-5
 http://114.244.240.166:4022/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道A",CCTV-5+
@@ -25,14 +31,14 @@ http://114.244.240.166:4022/rtp/239.3.1.61:8104
 http://114.244.240.166:4022/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道A",CCTV-9
 http://114.244.240.166:4022/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道A",CCTV-9
-http://111.221.137.155:44330/tsfile/live/0009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道A",CCTV-10
 http://114.244.240.166:4022/rtp/239.3.1.63:8116
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道A",CCTV-11
 http://114.244.240.166:4022/rtp/239.3.1.152:8120
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道A",CCTV-12
 http://114.244.240.166:4022/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道A",CCTV-12
+http://182.150.23.74:808/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道A",CCTV-13
 http://114.244.240.166:4022/rtp/239.3.1.124:8128
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道A",CCTV-13
@@ -263,8 +269,8 @@ http://live.njgdmm.com/changzhi/cztv2.m3u8
 rtmp://live.njgdmm.com/changzhi/czetv
 #EXTINF:-1 tvg-name="长治教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长治教育.png" group-title="本地频道",长治教育
 http://live.njgdmm.com/changzhi/czetv.m3u8
-#EXTINF:-1 tvg-name="屯留电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/屯留电视台.png" group-title="本地频道",屯留电视台
-https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
+#EXTINF:-1 tvg-name="上党区电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上党区电视台.png" group-title="本地频道",上党区电视台
+http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 #EXTINF:-1 tvg-name="长子电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长子电视台.png" group-title="本地频道",长子电视台
 rtmp://zzlive.zzc-media.com:1935/live/xwzh
 #EXTINF:-1 tvg-name="武乡电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武乡电视台.png" group-title="本地频道",武乡电视台
