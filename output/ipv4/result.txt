@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-21 06:16:45,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-11-21 18:19:26,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -38,14 +38,17 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 湖南卫视,http://114.244.240.166:4022/rtp/239.3.1.132:8012
 东方卫视,http://114.244.240.166:4022/rtp/239.3.1.136:8032
 浙江卫视,http://114.244.240.166:4022/rtp/239.3.1.137:8036
+浙江卫视,http://58.17.116.69:9903/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 江苏卫视,http://114.244.240.166:4022/rtp/239.3.1.135:8028
+江苏卫视,http://58.17.116.69:9903/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://114.244.240.166:4022/rtp/239.3.1.134:8020
 广东卫视,http://114.244.240.166:4022/rtp/239.3.1.142:8048
 安徽卫视,http://114.244.240.166:4022/rtp/239.3.1.211:8064
 天津卫视,http://114.244.240.166:4022/rtp/239.3.1.141:1234
 重庆卫视,http://114.244.240.166:4022/rtp/239.3.1.122:8160
 山东卫视,http://114.244.240.166:4022/rtp/239.3.1.209:8052
+山东卫视,http://58.17.116.69:9903/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://114.244.240.166:4022/rtp/239.3.1.133:8016
 河北卫视,http://114.244.240.166:4022/rtp/239.3.1.148:8072
 辽宁卫视,http://114.244.240.166:4022/rtp/239.3.1.210:8056
@@ -133,11 +136,13 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 
 本地频道,#genre#
 黎城电视台,http://111.53.96.67:8081/live/1/index.m3u8
+长治综合,rtmp://live.njgdmm.com/changzhi/cztv1
 长治综合,http://live.njgdmm.com/changzhi/cztv1.m3u8
 长治公共,rtmp://live.njgdmm.com/changzhi/cztv2
 长治公共,http://live.njgdmm.com/changzhi/cztv2.m3u8
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 长治教育,http://live.njgdmm.com/changzhi/czetv.m3u8
+上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
@@ -206,6 +211,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 财富天下,http://114.244.240.166:4022/rtp/239.3.1.53:9136
 足球,http://114.244.240.166:4022/rtp/239.3.1.89:4120
 金鹰卡通,http://114.244.240.166:4022/rtp/239.3.1.51:9252
+金鹰卡通,http://101.66.198.43:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 鉴赏,http://114.244.240.166:4022/rtp/239.3.1.82:4120
 音乐现场,http://114.244.240.166:4022/rtp/239.3.1.70:4120
 高网,http://114.244.240.166:4022/rtp/239.3.1.88:4120
