@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-22 06:17:20,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-11-22 18:17:17,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -38,6 +38,7 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 湖南卫视,http://114.244.240.166:4022/rtp/239.3.1.132:8012
 东方卫视,http://114.244.240.166:4022/rtp/239.3.1.136:8032
 浙江卫视,http://114.244.240.166:4022/rtp/239.3.1.137:8036
+浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 江苏卫视,http://114.244.240.166:4022/rtp/239.3.1.135:8028
 深圳卫视,http://114.244.240.166:4022/rtp/239.3.1.134:8020
@@ -139,6 +140,7 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 长治公共,http://live.njgdmm.com/changzhi/cztv2.m3u8
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 长治教育,http://live.njgdmm.com/changzhi/czetv.m3u8
+上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
