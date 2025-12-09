@@ -1,17 +1,14 @@
 🕘️更新时间,#genre#
-2025-12-09 18:22:29,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-12-10 06:46:03,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV-2,http://114.244.240.166:4022/rtp/239.3.1.60:8084
-CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
 CCTV-3,http://114.244.240.166:4022/rtp/239.3.1.172:8001
 CCTV-4,http://114.244.240.166:4022/rtp/239.3.1.105:8092
-CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
+CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-5,http://114.244.240.166:4022/rtp/239.3.1.173:8001
 CCTV-5+,http://114.244.240.166:4022/rtp/239.3.1.130:8004
 CCTV-6,http://114.244.240.166:4022/rtp/239.3.1.174:8001
@@ -20,28 +17,18 @@ CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://114.244.240.166:4022/rtp/239.3.1.175:8001
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://114.244.240.166:4022/rtp/239.3.1.62:8112
-CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV-10,http://114.244.240.166:4022/rtp/239.3.1.63:8116
-CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
 CCTV-11,http://114.244.240.166:4022/rtp/239.3.1.152:8120
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
-CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
 CCTV-12,http://114.244.240.166:4022/rtp/239.3.1.64:8124
-CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
 CCTV-13,http://114.244.240.166:4022/rtp/239.3.1.124:8128
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
-CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
 CCTV-14,http://114.244.240.166:4022/rtp/239.3.1.65:8132
-CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
 CCTV-15,http://114.244.240.166:4022/rtp/239.3.1.153:8136
-CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
 CCTV-16,http://114.244.240.166:4022/rtp/239.3.1.183:8001
 CCTV-16,http://114.244.240.166:4022/rtp/239.3.1.184:8001
 CCTV-17,http://114.244.240.166:4022/rtp/239.3.1.151:8144
-CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 CETV1,http://114.244.240.166:4022/rtp/239.3.1.57:8152
 CETV2,http://114.244.240.166:4022/rtp/239.3.1.54:4120
 CETV3,http://114.244.240.166:4022/rtp/239.3.1.55:4120
@@ -89,12 +76,12 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 4k频道,#genre#
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,http://171.125.90.120:6001/rtp/226.0.1.248:2121
-湖南卫视4K,http://zqh2333.top:2222/rtp/239.94.0.116:5140
 湖南卫视4K,http://171.125.90.120:6001/rtp/226.0.1.246:2125
-山东卫视4K,http://zqh2333.top:2222/rtp/239.94.0.120:5140
+湖南卫视4K,http://zqh2333.top:2222/rtp/239.94.0.116:5140
 山东卫视4K,http://171.125.90.120:6001/rtp/226.0.1.251:2124
-四川卫视4K,http://zqh2333.top:2222/rtp/239.94.0.115:5140
+山东卫视4K,http://zqh2333.top:2222/rtp/239.94.0.120:5140
 四川卫视4K,http://171.125.90.120:6001/rtp/226.0.1.250:2126
+四川卫视4K,http://zqh2333.top:2222/rtp/239.94.0.115:5140
 江苏卫视4K,http://171.125.90.120:6001/rtp/226.0.1.249:2122
 
 央视频道B,#genre#
@@ -162,8 +149,6 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 长治公共,http://live.njgdmm.com/changzhi/cztv2.m3u8
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 长治教育,http://live.njgdmm.com/changzhi/czetv.m3u8
-屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
-上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
@@ -190,7 +175,6 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 精选,http://114.244.240.166:4022/rtp/239.3.1.74:4120
 经典电影,http://114.244.240.166:4022/rtp/239.3.1.195:9024
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-经典电影,http://lxajh.top/tv/douyu.php?id=74374
 纪实人文,http://114.244.240.166:4022/rtp/239.3.1.212:8060
 金鹰纪实,http://114.244.240.166:4022/rtp/239.3.1.58:8156
 地理,http://114.244.240.166:4022/rtp/239.3.1.71:4120
@@ -234,6 +218,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 财富天下,http://114.244.240.166:4022/rtp/239.3.1.53:9136
 足球,http://114.244.240.166:4022/rtp/239.3.1.89:4120
 金鹰卡通,http://114.244.240.166:4022/rtp/239.3.1.51:9252
+金鹰卡通,http://101.66.198.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 鉴赏,http://114.244.240.166:4022/rtp/239.3.1.82:4120
 音乐现场,http://114.244.240.166:4022/rtp/239.3.1.70:4120
 高网,http://114.244.240.166:4022/rtp/239.3.1.88:4120
