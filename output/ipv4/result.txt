@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-23 18:21:35,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-12-24 06:18:39,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -7,8 +7,8 @@ CCTV-2,http://114.244.240.166:4022/rtp/239.3.1.60:8084
 CCTV-3,http://114.244.240.166:4022/rtp/239.3.1.172:8001
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 CCTV-4,http://114.244.240.166:4022/rtp/239.3.1.105:8092
-CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
+CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 CCTV-5,http://114.244.240.166:4022/rtp/239.3.1.173:8001
 CCTV-5+,http://114.244.240.166:4022/rtp/239.3.1.130:8004
 CCTV-6,http://114.244.240.166:4022/rtp/239.3.1.174:8001
@@ -41,7 +41,6 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 湖南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 东方卫视,http://114.244.240.166:4022/rtp/239.3.1.136:8032
 东方卫视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 浙江卫视,http://114.244.240.166:4022/rtp/239.3.1.137:8036
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 江苏卫视,http://114.244.240.166:4022/rtp/239.3.1.135:8028
@@ -95,9 +94,9 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 山东卫视4K,http://171.83.103.119:9999/rtp/239.69.2.38:11382
 山东卫视4K,http://116.237.37.244:8888/rtp/239.45.3.180:5140
 山东卫视4K,http://171.125.90.120:6001/rtp/226.0.1.251:2124
+四川卫视4K,http://171.83.103.119:9999/rtp/239.69.2.39:11388
 四川卫视4K,http://zqh2333.top:2222/rtp/239.94.0.115:5140
 四川卫视4K,http://171.125.90.120:6001/rtp/226.0.1.250:2126
-四川卫视4K,http://171.83.103.119:9999/rtp/239.69.2.39:11388
 浙江卫视4K,http://yp.qqqtv.top/1/api.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&auth=666858
 浙江卫视4K,http://171.83.103.119:9999/rtp/239.69.2.35:11364
 江苏卫视4K,http://171.125.90.120:6001/rtp/226.0.1.249:2122
@@ -164,12 +163,9 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 长治综合,rtmp://live.njgdmm.com/changzhi/cztv1
 长治公共,rtmp://live.njgdmm.com/changzhi/cztv2
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
-屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
-上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
-壶关电视台,https://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
 
 北京频道,#genre#
 BRTV北京卫视,http://114.244.240.166:4022/rtp/239.3.1.241:8000
@@ -219,7 +215,6 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 古装剧场,http://114.244.240.166:4022/rtp/239.3.1.69:4120
 台球,http://114.244.240.166:4022/rtp/239.3.1.85:4120
 嘉佳卡通,http://114.244.240.166:4022/rtp/239.3.1.147:9268
-嘉佳卡通,http://yp.qqqtv.top/1/api.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&auth=666858
 国学,http://114.244.240.166:4022/rtp/239.3.1.77:4120
 国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=58d36d10ab0fbefc1f2c6544b2e71c40&wsTime=1758859213
 国学,http://182.123.208.170:12345/rtp/225.1.4.196:1311
