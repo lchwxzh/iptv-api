@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-26 06:18:18,http://114.244.240.166:4022/rtp/239.3.1.129:8008
+2025-12-26 18:20:19,http://114.244.240.166:4022/rtp/239.3.1.129:8008
 
 央视频道A,#genre#
 CCTV-1,http://114.244.240.166:4022/rtp/239.3.1.129:8008
@@ -7,8 +7,8 @@ CCTV-2,http://114.244.240.166:4022/rtp/239.3.1.60:8084
 CCTV-3,http://114.244.240.166:4022/rtp/239.3.1.172:8001
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 CCTV-4,http://114.244.240.166:4022/rtp/239.3.1.105:8092
-CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 CCTV-5,http://114.244.240.166:4022/rtp/239.3.1.173:8001
 CCTV-5+,http://114.244.240.166:4022/rtp/239.3.1.130:8004
 CCTV-6,http://114.244.240.166:4022/rtp/239.3.1.174:8001
@@ -17,6 +17,7 @@ CCTV-7,http://114.244.240.166:4022/rtp/239.3.1.61:8104
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-8,http://114.244.240.166:4022/rtp/239.3.1.175:8001
 CCTV-9,http://114.244.240.166:4022/rtp/239.3.1.62:8112
+CCTV-9,https://v4-681c4e93f62c2089d39b368c6a1858bd.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4e4c848184af8ffcd00b7e0780256191
 CCTV-10,http://114.244.240.166:4022/rtp/239.3.1.63:8116
 CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 CCTV-11,http://114.244.240.166:4022/rtp/239.3.1.152:8120
@@ -41,6 +42,7 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 湖南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 东方卫视,http://114.244.240.166:4022/rtp/239.3.1.136:8032
 东方卫视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
+东方卫视,http://113.90.245.216:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://114.244.240.166:4022/rtp/239.3.1.137:8036
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 江苏卫视,http://114.244.240.166:4022/rtp/239.3.1.135:8028
@@ -57,6 +59,7 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 河北卫视,http://114.244.240.166:4022/rtp/239.3.1.148:8072
 辽宁卫视,http://114.244.240.166:4022/rtp/239.3.1.210:8056
 辽宁卫视,http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
+辽宁卫视,http://113.90.245.216:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://114.244.240.166:4022/rtp/239.3.1.138:8044
 湖北卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
 吉林卫视,http://114.244.240.166:4022/rtp/239.3.1.240:8172
@@ -88,6 +91,7 @@ CETV4,http://114.244.240.166:4022/rtp/239.3.1.56:4120
 
 4k频道,#genre#
 北京卫视4K,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
+北京卫视4K,http://139.ye23.vip/dl/btv2502.php?id=bjws4
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,http://171.83.103.119:9999/rtp/239.69.2.37:11376
 湖南卫视4K,http://zqh2333.top:2222/rtp/239.94.0.116:5140
@@ -160,9 +164,11 @@ CCTV5+体育赛事,http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 长治公共,rtmp://live.njgdmm.com/changzhi/cztv2
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
+上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
+壶关电视台,https://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
 
 北京频道,#genre#
 BRTV北京卫视,http://114.244.240.166:4022/rtp/239.3.1.241:8000
@@ -231,6 +237,7 @@ BTV国际频道,http://114.244.240.166:4022/rtp/239.3.1.235:8000
 足球,http://114.244.240.166:4022/rtp/239.3.1.89:4120
 足球,http://yp.qqqtv.top/1/api.php?id=%E8%B6%B3%E7%90%83&auth=666858
 金鹰卡通,http://114.244.240.166:4022/rtp/239.3.1.51:9252
+金鹰卡通,http://101.66.198.202:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 鉴赏,http://114.244.240.166:4022/rtp/239.3.1.82:4120
 音乐现场,http://114.244.240.166:4022/rtp/239.3.1.70:4120
 高网,http://114.244.240.166:4022/rtp/239.3.1.88:4120
