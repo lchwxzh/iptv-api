@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2026-01-05 18:23:09,http://112.46.85.60:8009/hls/501/index.m3u8
+2026-01-06 06:19:17,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
-CCTV-1,http://112.46.85.60:8009/hls/501/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5fffe4d5ef1d5d3c94e4ee61cd25fe24
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
@@ -18,11 +16,9 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 江苏卫视,http://tpc.x3322.net:9901/tsfile/live/0127_1.m3u8
 深圳卫视,http://tpc.x3322.net:9901/tsfile/live/0126_1.m3u8
 广东卫视,http://tpc.x3322.net:9901/tsfile/live/0125_1.m3u8
-广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
 安徽卫视,http://tpc.x3322.net:9901/tsfile/live/0130_1.m3u8
 天津卫视,http://tpc.x3322.net:9901/tsfile/live/0135_1.m3u8
 重庆卫视,http://tpc.x3322.net:9901/tsfile/live/0142_2.m3u8
-重庆卫视,http://111.61.236.247:9081/hls/41/index.m3u8
 山东卫视,http://tpc.x3322.net:9901/tsfile/live/0131_1.m3u8
 黑龙江卫视,http://tpc.x3322.net:9901/tsfile/live/0143_1.m3u8
 河北卫视,http://tpc.x3322.net:9901/tsfile/live/0117_1.m3u8
@@ -37,6 +33,7 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 海南卫视,http://tpc.x3322.net:9901/tsfile/live/0114_1.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 云南卫视,http://tpc.x3322.net:9901/tsfile/live/0119_2.m3u8
+云南卫视,http://183.11.239.36:808/hls/52/index.m3u8
 兵团卫视,http://tpc.x3322.net:9901/tsfile/live/0115_1.m3u8
 四川卫视,http://tpc.x3322.net:9901/tsfile/live/0123_1.m3u8
 宁夏卫视,http://tpc.x3322.net:9901/tsfile/live/0112_1.m3u8
@@ -57,8 +54,8 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 东方卫视4K,http://171.83.103.119:9999/rtp/239.69.2.37:11376
 湖南卫视4K,http://zqh2333.top:2222/rtp/239.94.0.116:5140
 山东卫视4K,http://171.83.103.119:9999/rtp/239.69.2.38:11382
-四川卫视4K,http://zqh2333.top:2222/rtp/239.94.0.115:5140
 四川卫视4K,http://171.83.103.119:9999/rtp/239.69.2.39:11388
+四川卫视4K,http://zqh2333.top:2222/rtp/239.94.0.115:5140
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 浙江卫视4K,http://171.83.103.119:9999/rtp/239.69.2.35:11364
 
@@ -68,8 +65,6 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 长治公共,rtmp://live.njgdmm.com/changzhi/cztv2
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
-上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
-壶关电视台,https://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
