@@ -1,18 +1,17 @@
 🕘️更新时间,#genre#
-2026-02-22 18:23:00,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-02-23 06:20:58,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-CCTV-6,https://iptv.gstory.cn/Cinetry/624878396
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
@@ -26,6 +25,7 @@ CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV-17,http://dms.yryyj.site:8188/udp/239.76.245.238:1234
 
 卫视频道,#genre#
 湖南卫视,http://tpc.x3322.net:9901/tsfile/live/0117_2.m3u8
@@ -35,8 +35,8 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 东方卫视,http://tpc.x3322.net:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 浙江卫视,http://tpc.x3322.net:9901/tsfile/live/0124_1.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 江苏卫视,http://tpc.x3322.net:9901/tsfile/live/0127_1.m3u8
 深圳卫视,http://tpc.x3322.net:9901/tsfile/live/0126_1.m3u8
@@ -53,6 +53,7 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 辽宁卫视,http://tpc.x3322.net:9901/tsfile/live/0121_1.m3u8
 湖北卫视,http://tpc.x3322.net:9901/tsfile/live/0132_1.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
+湖北卫视,http://61.136.172.236:9901/tsfile/live/0132_1.m3u8
 吉林卫视,http://tpc.x3322.net:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 贵州卫视,http://tpc.x3322.net:9901/tsfile/live/0120_1.m3u8
@@ -79,18 +80,16 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 西藏卫视,http://tpc.x3322.net:9901/tsfile/live/0111_1.m3u8
 三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8
 陕西卫视,http://tpc.x3322.net:9901/tsfile/live/0136_1.m3u8
-陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-青海卫视,https://iptv.gstory.cn/Cinetry/947472506
 内蒙古卫视,http://tpc.x3322.net:9901/tsfile/live/0109_1.m3u8
 
 4k频道,#genre#
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 山东卫视4K,http://171.83.103.119:9999/rtp/239.69.2.38:11382
 四川卫视4K,http://171.83.103.119:9999/rtp/239.69.2.39:11388
-浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 
 本地频道,#genre#
@@ -99,7 +98,6 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 长治公共,rtmp://live.njgdmm.com/changzhi/cztv2
 长治教育,rtmp://live.njgdmm.com/changzhi/czetv
 屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
-上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
 长子电视台,rtmp://zzlive.zzc-media.com:1935/live/xwzh
 武乡电视台,http://60.220.198.84:81/0.m3u8
 平顺电视台,http://player4.juyun.tv:80/tv/149466149.m3u8
