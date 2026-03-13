@@ -17,13 +17,12 @@ CCTV-15
 CCTV-16
 CCTV-17
 CCTV-5+
-重温经典
 CETV-1
 CETV-2
 CETV-3
 CETV-4
 
-💰央视付费频道,#genre#
+💰央视付费,#genre#
 文化精品
 央视台球
 风云音乐
@@ -76,7 +75,7 @@ CETV-4
 凤凰资讯
 凤凰中文
 凤凰香港
-
+重温经典
 ☘️山西频道,#genre#
 山西卫视
 山西经济与科技 
@@ -97,7 +96,7 @@ CETV-4
 吕梁新闻综合
 
 
-本地频道,#genre# 
+☘️本地频道,#genre# 
 屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
 屯留电视台,http://qqlivepull.seedata.top/live/tunliu_video1.m3u8
 上党区电视台,http://zhibo.czmarathon.net/cdd/TVLive.m3u8?auth_key=1724143889-0-0-929d4ecd8b7700822ec202b14ebc6c3c
