@@ -13,9 +13,9 @@ jobs:
     runs-on: ${{ matrix.operating-system }}
     strategy:
       matrix:
-        operating-system: [ 'ubuntu-latest' ]
+        operating-system: [ 'self-hosted' ]
     steps:
-      - name: Set branch name
+      - name: Checkout code
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
       - uses: actions/checkout@v3
