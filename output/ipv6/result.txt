@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-22 07:37:32,http://107.150.60.122/live/cctv1hd.m3u8
+2026-03-22 10:39:13,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -11,15 +11,11 @@ CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
-CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
@@ -36,6 +32,7 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
