@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-22 18:16:12,http://107.150.60.122/live/cctv1hd.m3u8
+2026-03-23 06:20:53,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -69,8 +69,8 @@ CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
+浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 
