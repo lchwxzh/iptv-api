@@ -28,6 +28,21 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 
 
+💰央视付费,#genre#
+文化精品,http://107.150.60.122/live/ysjp.m3u8
+央视台球,http://107.150.60.122/live/ystq.m3u8
+风云音乐,http://107.150.60.122/live/fyyy.m3u8
+第一剧场,http://107.150.60.122/live/dyjc.m3u8
+风云剧场,http://107.150.60.122/live/fyjc.m3u8
+怀旧剧场,http://107.150.60.122/live/hjjc.m3u8
+女性时尚,http://107.150.60.122/live/nxss.m3u8
+高尔夫网球,http://107.150.60.122/live/gefwq.m3u8
+风云足球,http://107.150.60.122/live/fyzq.m3u8
+电视指南,http://107.150.60.122/live/zszn.m3u8
+世界地理,http://107.150.60.122/live/sjdl.m3u8
+
+
+
 ☘️本地频道,#genre# 
 屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8$
 屯留电视台,http://qqlivepull.seedata.top/live/tunliu_video1.m3u8$
