@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-03-23 11:08:04,http://107.150.60.122/live/cctv1hd.m3u8
+2026-03-23 18:41:57,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
@@ -72,28 +71,20 @@ CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 世界地理,http://107.150.60.122/live/sjdl.m3u8
 
 📡卫视频道,#genre#
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
-湖北卫视,http://154.219.125.138:5050/ysp?id=2024171203&pid=600002508&q=fhd
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
-广西卫视,http://154.219.125.138:5050/ysp?id=2024060703&pid=600002509&q=fhd
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://154.219.125.138:5050/ysp?id=2024171103&pid=600002521&q=fhd
-江西卫视,http://154.219.125.138:5050/ysp?id=2024061703&pid=600002503&q=fhd
 辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
 宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 青海卫视,http://107.150.60.122/live/qhws.m3u8
-青海卫视,http://154.219.125.138:5050/ysp?id=2025559103&pid=600190406&q=fhd
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
-山东卫视,http://154.219.125.138:5050/ysp?id=2029787903&pid=600002513&q=fhd
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
-天津卫视,http://154.219.125.138:5050/ysp?id=2019927003&pid=600152137&q=fhd
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-新疆卫视,http://154.219.125.138:5050/ysp?id=2019927403&pid=600152138&q=fhd
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
