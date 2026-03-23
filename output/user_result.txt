@@ -53,7 +53,16 @@ CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 
 💰央视付费,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
-
+央视台球,http://107.150.60.122/live/ystq.m3u8
+风云音乐,http://107.150.60.122/live/fyyy.m3u8
+第一剧场,http://107.150.60.122/live/dyjc.m3u8
+风云剧场,http://107.150.60.122/live/fyjc.m3u8
+怀旧剧场,http://107.150.60.122/live/hjjc.m3u8
+女性时尚,http://107.150.60.122/live/nxss.m3u8
+高尔夫网球,http://107.150.60.122/live/gefwq.m3u8
+风云足球,http://107.150.60.122/live/fyzq.m3u8
+电视指南,http://107.150.60.122/live/zszn.m3u8
+世界地理,http://107.150.60.122/live/sjdl.m3u8
 📡卫视频道,#genre#
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
