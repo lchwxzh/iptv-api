@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-04-09 18:53:34,http://107.150.60.122/live/cctv1hd.m3u8
+2026-04-10 06:37:42,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-1,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
 CCTV-1,http://114.243.168.34:8888/rtp/239.3.1.129:8008
-CCTV-1,http://125.42.148.129:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV-2,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV2
@@ -14,7 +13,6 @@ CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-3,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV3
 CCTV-3,http://114.243.168.34:8888/rtp/239.3.1.172:8001
-CCTV-3,http://125.42.148.129:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV4
 CCTV-4,http://113.95.132.166:30001/udp/239.77.1.163:5146
@@ -34,13 +32,11 @@ CCTV-8,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV8
 CCTV-8,http://114.243.168.34:8888/rtp/239.3.1.175:8001
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-CCTV-9,http://221.13.235.111:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV-10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 CCTV-10,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV10
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8
 CCTV-11,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV11
 CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
@@ -52,21 +48,19 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV13
-CCTV-13,http://221.13.235.111:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV-14,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV14
 CCTV-14,http://221.13.235.111:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV14
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-15,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
 CCTV-15,http://114.243.168.34:8888/rtp/239.3.1.153:8136
-CCTV-15,http://221.13.235.162:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-16,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV16
-CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV-17,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV17
 CCTV-17,http://114.243.168.34:8888/rtp/239.3.1.151:8144
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
@@ -91,21 +85,14 @@ CETV-1,http://114.243.168.34:8888/rtp/239.3.1.57:8152
 📡卫视频道,#genre#
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://114.243.168.34:8888/rtp/239.3.1.132:8012
-北京卫视,http://221.13.235.111:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://114.243.168.34:8888/rtp/239.3.1.138:8044
-湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 黑龙江卫视,http://114.243.168.34:8888/rtp/239.3.1.133:8016
-安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://221.13.235.162:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
 广西卫视,http://113.95.132.166:30001/udp/239.253.43.36:5146
 河北卫视,http://114.243.168.34:8888/rtp/239.3.1.148:8072
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://125.42.148.129:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://221.13.235.162:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://114.243.168.34:8888/rtp/239.3.1.135:8028
 辽宁卫视,http://114.243.168.34:8888/rtp/239.3.1.210:8056
-宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 深圳卫视,http://114.243.168.34:8888/rtp/239.3.1.134:8020
