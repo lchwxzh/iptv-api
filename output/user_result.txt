@@ -1,26 +1,22 @@
 🕘️更新时间,#genre#
-2026-04-14 18:55:55,http://107.150.60.122/live/cctv1hd.m3u8
+2026-04-15 06:40:55,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-CCTV-2,http://114.243.168.34:8888/rtp/239.3.1.60:8084
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-CCTV-3,http://114.243.168.34:8888/rtp/239.3.1.172:8001
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV-6,http://114.243.168.34:8888/rtp/239.3.1.174:8001
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
-CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
 CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV-10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -36,16 +32,13 @@ CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
-CCTV-15,http://114.243.168.34:8888/rtp/239.3.1.153:8136
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-CCTV-17,http://114.243.168.34:8888/rtp/239.3.1.151:8144
+CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
-CETV-1,http://114.243.168.34:8888/rtp/239.3.1.57:8152
 
 💰央视付费,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -63,8 +56,6 @@ CETV-1,http://114.243.168.34:8888/rtp/239.3.1.57:8152
 
 📡卫视频道,#genre#
 湖南卫视,http://114.243.168.34:8888/rtp/239.3.1.132:8012
-湖北卫视,http://114.243.168.34:8888/rtp/239.3.1.138:8044
-黑龙江卫视,http://114.243.168.34:8888/rtp/239.3.1.133:8016
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://114.243.168.34:8888/rtp/239.3.1.135:8028
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
