@@ -1,20 +1,18 @@
 🕘️更新时间,#genre#
-2026-04-17 06:35:52,http://107.150.60.122/live/cctv1hd.m3u8
+2026-04-17 18:46:31,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV-6,http://154.37.212.176/ysp.php?pid=600108442&id=2013693901
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
@@ -40,7 +38,6 @@ CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
-CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 
 💰央视付费,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -57,11 +54,11 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 世界地理,http://107.150.60.122/live/sjdl.m3u8
 
 📡卫视频道,#genre#
-黑龙江卫视,http://154.37.212.176/ysp.php?pid=600002498&id=2029797003
+东方卫视,http://43.156.8.127:5050/ysp?id=2024054503&pid=600002483&q=fhd
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 深圳卫视,http://114.243.168.34:8888/rtp/239.3.1.134:8020
-新疆卫视,http://154.37.212.176/ysp.php?pid=600152138&id=2019927403
+云南卫视,http://125.43.241.91:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://114.243.168.34:8888/rtp/239.3.1.137:8036
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
