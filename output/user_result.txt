@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-24 18:57:59,http://107.150.60.122/live/cctv1hd.m3u8
+2026-04-25 06:35:56,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -50,10 +50,8 @@ CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 风云足球,http://107.150.60.122/live/fyzq.m3u8
 电视指南,http://107.150.60.122/live/zszn.m3u8
 世界地理,http://107.150.60.122/live/sjdl.m3u8
-世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 
 📡卫视频道,#genre#
-东方卫视,http://101.66.195.20:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 青海卫视,http://153.0.171.163:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
