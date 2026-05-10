@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-10 06:37:21,http://107.150.60.122/live/cctv1hd.m3u8
+2026-05-10 18:51:46,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
@@ -19,6 +20,7 @@ CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-13,http://pull-hls-f1.douyincdn.com/media/stream-695440843385864876/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319180016A80564ED5545468EA742-GFdhqq&wsSecret=34a32822799c54e7dcdef972de5a9201&wsTime=69bbc931
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
