@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-10 18:51:46,http://107.150.60.122/live/cctv1hd.m3u8
+2026-05-11 06:41:06,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -44,7 +44,6 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-CETV-2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 
 💰央视付费,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -62,10 +61,9 @@ CETV-2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 
 📡卫视频道,#genre#
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
+内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
