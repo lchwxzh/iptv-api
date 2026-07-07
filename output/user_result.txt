@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 20:22:31,http://107.150.60.122/live/cctv1hd.m3u8
+2026-07-08 06:55:55,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -11,7 +11,6 @@ CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
@@ -53,12 +52,12 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 📡卫视频道,#genre#
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
-东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
-广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
-河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
+广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
+河北卫视,http://115.48.161.55:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
@@ -68,7 +67,6 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
-山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
