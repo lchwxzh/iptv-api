@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-15 06:53:01,http://107.150.60.122/live/cctv1hd.m3u8
+2026-07-15 19:18:33,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -25,6 +25,7 @@ CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV-13,http://pull-hls-f1.douyincdn.com/media/stream-695440843385864876/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319180016A80564ED5545468EA742-GFdhqq&wsSecret=34a32822799c54e7dcdef972de5a9201&wsTime=69bbc931
+CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
@@ -53,8 +54,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
-东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
+东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
@@ -63,9 +64,11 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+四川卫视,http://182.37.41.46:8154/tsfile/live/0123_1.m3u8?key=txiptv
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
-天津卫视,http://198.204.228.26/live/tjwshd.m3u8
+深圳卫视,http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
 天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
+天津卫视,http://198.204.228.26/live/tjwshd.m3u8
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
