@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-07 09:29:03,http://107.150.60.122/live/cctv1hd.m3u8
+2026-08-07 18:39:53,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
