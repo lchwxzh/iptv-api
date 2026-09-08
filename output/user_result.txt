@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-08 07:55:19,http://107.150.60.122/live/cctv1hd.m3u8
+2026-09-08 21:57:58,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -46,17 +46,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 世界地理,http://107.150.60.122/live/sjdl.m3u8
 
 📡卫视频道,#genre#
-东南卫视,http://101.66.198.251:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://101.66.198.251:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://101.66.198.251:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://101.66.198.251:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://101.66.198.251:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://101.66.198.251:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://101.66.198.251:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://101.66.198.251:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-四川卫视,http://101.66.198.251:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://101.66.198.251:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️本地频道,#genre#
 屯留电视台,https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d97361a940348729fbd0ee3f4eb9e47.m3u8
