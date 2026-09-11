@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-11 07:37:46,http://107.150.60.122/live/cctv1hd.m3u8
+2026-09-11 21:55:20,http://107.150.60.122/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -30,8 +30,10 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
+CETV-1,http://mg.cttv.vip/923287154
 CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+CETV-4,http://mg.cttv.vip/923287339
 
 💰央视付费,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -47,7 +49,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 世界地理,http://107.150.60.122/live/sjdl.m3u8
 
 📡卫视频道,#genre#
-河南卫视,http://125.42.148.178:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️本地频道,#genre#
