@@ -1,5 +1,5 @@
-Name: CETV-1, URL: https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: 407 ms, Speed: 3.56 M/s, Resolution: 1920x1080
-Name: CETV-1, URL: http://198.204.228.26/live/cetv1hd.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 649 ms, Speed: 8.37 M/s, Resolution: 1920x1080
-Name: 四川卫视, URL: https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 93 ms, Speed: 58.11 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, From: subscribe, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 2394 ms, Speed: 0.59 M/s, Resolution: None
-Name: CCTV-5, URL: http://115.171.216.32:4000/rtp/225.1.8.89:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 436 ms, Speed: 0.76 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: http://198.204.228.26/live/cetv1hd.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 574 ms, Speed: 8.96 M/s, Resolution: 1920x1080
+Name: CETV-1, URL: https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: DigitalOcean, Date: None, Delay: 788 ms, Speed: 1.77 M/s, Resolution: 1920x1080
+Name: 四川卫视, URL: https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 219 ms, Speed: 28.44 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, From: subscribe, IPv_Type: ipv4, Location: 蒙古, ISP: , Date: None, Delay: 3088 ms, Speed: 0.51 M/s, Resolution: None
+Name: CCTV-5, URL: http://115.171.216.32:4000/rtp/225.1.8.89:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 545 ms, Speed: 0.80 M/s, Resolution: 1920x1080
